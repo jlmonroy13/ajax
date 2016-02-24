@@ -1,0 +1,14 @@
+[
+	{
+		"name":"jorge",
+		"inoffice":true
+	},
+	{
+		"name":"luis",
+		"inoffice":true
+	},
+	{
+		"name":"matthew",
+		"inoffice":false
+	}
+]
